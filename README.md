@@ -1,2 +1,2 @@
 # container-community
-Conceptions and Docummentations of the Baloise Container Community
+Concepts and documents of the Baloise container community
